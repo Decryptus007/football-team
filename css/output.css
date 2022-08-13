@@ -587,6 +587,10 @@ video {
   position: fixed;
 }
 
+.absolute{
+  position: absolute;
+}
+
 .relative{
   position: relative;
 }
@@ -606,6 +610,18 @@ video {
 
 .top-14{
   top: 3.5rem;
+}
+
+.top-4{
+  top: 1rem;
+}
+
+.top-8{
+  top: 2rem;
+}
+
+.top-12{
+  top: 3rem;
 }
 
 .z-10{
@@ -706,6 +722,14 @@ video {
 
 .h-auto{
   height: auto;
+}
+
+.h-\[25rem\]{
+  height: 25rem;
+}
+
+.h-\[29rem\]{
+  height: 29rem;
 }
 
 .w-full{
