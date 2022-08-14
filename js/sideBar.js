@@ -1,6 +1,7 @@
 const sideToggle = document.getElementById("sideToggle")
 const sideOutput = document.getElementById("sideOutput")
 const overlay = document.getElementById("overlay")
+const yearFoot = document.getElementById("yearFoot")
 
 let sideBarState = false
 
@@ -23,4 +24,6 @@ function sideBarFunc() {
 sideToggle.addEventListener('click', () => sideBarFunc())
 
 overlay.addEventListener('click', () => sideBarFunc())
+
+yearFoot.textContent = new Date().getFullYear()
 
