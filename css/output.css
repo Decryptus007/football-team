@@ -626,18 +626,26 @@ video {
   margin-bottom: 1rem;
 }
 
-.my-8{
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
 .my-2{
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
 
+.my-8{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .mt-4{
   margin-top: 1rem;
+}
+
+.mt-2{
+  margin-top: 0.5rem;
+}
+
+.mb-8{
+  margin-bottom: 2rem;
 }
 
 .mb-4{
@@ -710,6 +718,14 @@ video {
   width: fit-content;
 }
 
+.w-2\/12{
+  width: 16.666667%;
+}
+
+.w-8\/12{
+  width: 66.666667%;
+}
+
 .w-44{
   width: 11rem;
 }
@@ -726,8 +742,16 @@ video {
   flex-wrap: wrap;
 }
 
+.items-start{
+  align-items: flex-start;
+}
+
 .items-center{
   align-items: center;
+}
+
+.justify-center{
+  justify-content: center;
 }
 
 .justify-between{
@@ -745,6 +769,18 @@ video {
 
 .gap-y-4{
   row-gap: 1rem;
+}
+
+.gap-y-2{
+  row-gap: 0.5rem;
+}
+
+.gap-y-0\.5{
+  row-gap: 0.125rem;
+}
+
+.gap-y-0{
+  row-gap: 0px;
 }
 
 .justify-self-start{
@@ -831,11 +867,6 @@ video {
   padding-bottom: 0.5rem;
 }
 
-.px-4{
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 .px-0\.5{
   padding-left: 0.125rem;
   padding-right: 0.125rem;
@@ -844,6 +875,11 @@ video {
 .px-0{
   padding-left: 0px;
   padding-right: 0px;
+}
+
+.px-4{
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .pb-10{
@@ -917,6 +953,10 @@ video {
 .text-red-500{
   --tw-text-opacity: 1;
   color: rgb(239 68 68 / var(--tw-text-opacity));
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
@@ -1013,6 +1053,35 @@ body {
           animation-name: fade;
   -webkit-animation-duration: 1.5s;
           animation-duration: 1.5s;
+}
+
+.fa-futbol {
+  -webkit-animation-name: rotate;
+          animation-name: rotate;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 @-webkit-keyframes fade {
