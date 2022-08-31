@@ -191,7 +191,7 @@ const secondFixtures = `
         <span><a href="./argentina.html">🇦🇷Argentina</a></span><span><a href="./japan.html">🇯🇵Japan</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>4</span><span>1</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
