@@ -98,7 +98,7 @@ const firstFixtures = `
     <span><a href="./argentina.html">🇦🇷Argentina</a></span><span><a href="./brazil.html">🇧🇷Brazil</a></span>
   </div>
   <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-    <span>3</span><span>0</span>
+    <span>0</span><span>3</span>
   </div>
   </div>
   <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
@@ -120,7 +120,7 @@ const firstFixtures = `
     <span><a href="./brazil.html">🇧🇷Brazil</a></span><span><a href="./senegal.html">🇸🇳Senegal</a></span>
   </div>
   <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-    <span>1</span><span>0</span>
+    <span>11</span><span>0</span>
   </div>
   </div>
   <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
