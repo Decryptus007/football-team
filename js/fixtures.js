@@ -184,7 +184,7 @@ const firstFixtures = `
 const secondFixtures = `
   <div class="animate__animated animate__fadeInRight mt-2 mb-8 flex flex-col gap-y-2">
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>30</span><span>Aug.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
