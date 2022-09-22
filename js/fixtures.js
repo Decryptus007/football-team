@@ -250,80 +250,80 @@ const secondFixtures = `
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>5</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./argentina.html">🇦🇷Argentina</a></span><span><a href="./france.html">🇫🇷France</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>7</span><span>5</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>9</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./france.html">🇫🇷France</a></span><span><a href="./japan.html">🇯🇵Japan</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>7</span><span>2</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>13</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./brazil.html">🇧🇷Brazil</a></span><span><a href="./argentina.html">🇦🇷Argentina</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>3</span><span>2</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>14</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./portugal.html">🇵🇹Portugal</a></span><span><a href="./senegal.html">🇸🇳Senegal</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>0</span><span>1</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>16</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./japan.html">🇯🇵Japan</a></span><span><a href="./brazil.html">🇧🇷Brazil</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>1</span><span>2</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>19</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./france.html">🇫🇷France</a></span><span><a href="./portugal.html">🇵🇹Portugal</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>4</span><span>5</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
-      <div class="gap-y-0.5 flex flex-col items-center justify-center text-white text-xs w-2/12">
+      <div class="gap-y-0.5 flex flex-col items-center justify-center text-gray-500 text-xs w-2/12">
         <span>20</span><span>Sept.</span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-semibold items-start justify-center text-sm w-8/12">
         <span><a href="./argentina.html">🇦🇷Argentina</a></span><span><a href="./senegal.html">🇸🇳Senegal</a></span>
       </div>
       <div class="gap-y-0.5 flex flex-col font-bold items-center justify-center text-xs w-2/12">
-        <span>-</span><span>-</span>
+        <span>4</span><span>3</span>
       </div>
     </div>
     <div class="flex items-center justify-between bg-gray-800 py-2 rounded-lg">
